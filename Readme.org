@@ -24,17 +24,10 @@
 #+REVEAL_PLUGINS: (highlight notes)
 #+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
 #+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
-* Fechas
-
-** Vista buena a los textos de taller y convocatoria de proyectos
-   DEADLINE: <2017-04-18 mar>
-** Publicación textos de taller y convocatoria de proyectos
-
-* Visualizar'17
 
 Visualizar es un taller internacional de prototipado de proyectos de visualización de datos. Este año se cumple el décimo aniversario --que no la décima edición-- de este proyecto que pretende "atender a la disciplina de la visualización de datos, un elemento transversal que utiliza el inmenso poder de comunicación de las imágenes para explicar de manera comprensible las relaciones de significado, causa y dependencia que se pueden encontrar entre las grandes masas abstractas de información que generan los procesos científicos y sociales".
 
-Desde 2007, el programa Visualizar de Medialab Prado investiga las implicaciones sociales, culturales y artísticas de la cultura de los datos, y propone metodologías para hacerlos más comprensibles y abrir
+Desde 2007, el programa [[http://medialab-prado.es/visualizar][Visualizar]] de [[http://medialab-prado.es][Medialab-Prado]] investiga las implicaciones sociales, culturales y artísticas de la cultura de los datos, y propone metodologías para hacerlos más comprensibles y abrir
 caminos para la participación y la crítica. 
 
 Visualizar parte de la investigación iniciada por José Luis de Vicente en 2007 en torno a las estéticas de la representación de la información en el contexto de diversos festivales y exposiciones:
@@ -120,10 +113,3 @@ Además, en su patronato cuentan con:
 - Rosental Calmon Alves, Centro Knight para el Periodismo en las Américas, profesor de periodismo en la Universidad de Texas en Austin, Cátedra Knight de Periodismo y Cátedra UNESCO de Comunicación
 - Kevin Watkins, director ejecutivo del Overseas Development Institute
 - José Juan Toharia, fundador y presidente de Metroscopia, Catedrático de Sociología en la Universidad Autónoma de Madrid, primer director de la Escuela de Periodismo UAM-El País y miembro fundador de Cuadernos para el Diálogo.
-
-Cubren algunas características que pueden hacer que el taller sea un evento de éxito:
-- Contactos
-- Posicionados internacionalmente
-- Expertos en el tema
-
-Aunque cumplen buena parte de la temática de Visualizar'17, sí que hemos coincidido en que habría que pensar en otras figuras.
