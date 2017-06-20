@@ -25,14 +25,18 @@
 #+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
 #+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
 
+#+BEGIN_CENTER
+[[http://s.coop/visualizar17][Convocatoria de presentación de ideas/proyectos]] abierta hasta el domingo 25 de junio
+[[http://s.coop/visualizar17][Open Call for Ideas/Project]] open until June 25th
+#+END_CENTER
+
 Visualizar es un taller internacional de prototipado de proyectos de visualización de datos. Este año se cumple el décimo aniversario --que no la décima edición-- de este proyecto que pretende "atender a la disciplina de la visualización de datos, un elemento transversal que utiliza el inmenso poder de comunicación de las imágenes para explicar de manera comprensible las relaciones de significado, causa y dependencia que se pueden encontrar entre las grandes masas abstractas de información que generan los procesos científicos y sociales".
 
 Desde 2007, el programa [[http://medialab-prado.es/visualizar][Visualizar]] de [[http://medialab-prado.es][Medialab-Prado]] investiga las implicaciones sociales, culturales y artísticas de la cultura de los datos, y propone metodologías para hacerlos más comprensibles y abrir
 caminos para la participación y la crítica. 
 
 Visualizar parte de la investigación iniciada por José Luis de Vicente en 2007 en torno a las estéticas de la representación de la información en el contexto de diversos festivales y exposiciones:
-- /Randonee: Un paseo por el paisajismo del Siglo XXI/ (Exposición
-dentro de Sónar 2005, Barcelona, CCCB)
+- /Randonee: Un paseo por el paisajismo del Siglo XXI/ (Exposición dentro de Sónar 2005, Barcelona, CCCB)
 - /How to Do Things With Data - Cómo hacer cosas con Datos/, en OFFF 2006 (Barcelona, CCCB)
 - /Estética de Datos/ (Simposio dentro de ArtFutura 2006, Barcelona, Mercat de les Flors).
 
