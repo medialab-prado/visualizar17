@@ -1,0 +1,128 @@
+% Created 2017-04-07 vie 13:26
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\usepackage[english]{babel}
+\addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+\renewcommand{\contentsname}{Índice}
+\author{Adolfo Antón Bravo}
+\date{\textit{<2017-04-06 jue 10:00>}}
+\title{Visualizar'17: Migraciones}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={Notas sobre Visualizar},
+  pdfcreator={Emacs 24.5.1 (Org mode 8.2.10)}}
+\begin{document}
+
+\maketitle
+\section*{Fechas}
+\label{sec-1}
+
+\subsection*{Vista buena a los textos de taller y convocatoria de proyectos}
+\label{sec-1-1}
+\subsection*{Publicación textos de taller y convocatoria de proyectos}
+\label{sec-1-2}
+
+\section*{Visualizar'17}
+\label{sec-2}
+
+Visualizar es un taller internacional de prototipado de proyectos de visualización de datos. Este año se cumple el décimo aniversario --que no la décima edición-- de este proyecto que pretende "atender a la disciplina de la visualización de datos, un elemento transversal que utiliza el inmenso poder de comunicación de las imágenes para explicar de manera comprensible las relaciones de significado, causa y dependencia que se pueden encontrar entre las grandes masas abstractas de información que generan los procesos científicos y sociales".
+
+Desde 2007, el programa Visualizar de Medialab Prado investiga las implicaciones sociales, culturales y artísticas de la cultura de los datos, y propone metodologías para hacerlos más comprensibles y abrir
+caminos para la participación y la crítica. 
+
+Visualizar parte de la investigación iniciada por José Luis de Vicente en 2007 en torno a las estéticas de la representación de la información en el contexto de diversos festivales y exposiciones:
+\begin{itemize}
+\item \emph{Randonee: Un paseo por el paisajismo del Siglo XXI} (Exposición
+\end{itemize}
+dentro de Sónar 2005, Barcelona, CCCB)
+\begin{itemize}
+\item \emph{How to Do Things With Data - Cómo hacer cosas con Datos}, en OFFF 2006 (Barcelona, CCCB)
+\item \emph{Estética de Datos} (Simposio dentro de ArtFutura 2006, Barcelona, Mercat de les Flors).
+\end{itemize}
+
+En las seis ediciones que se han celebrado hasta ahora, el programa Visualizar ha contado con figuras internacionales como Ben Fry, Aaron Koblin, Stamen, Fernanda Viegas, Adam Greenfield, Bestiario, Adrian Holovaty, Sunlight Foundation, Mark Hansen, Manuel Lima, Dietmar Offenhuber, Amber Frid-Jimenez, Andrew Vande Moere, Greg Bloom, Sisi Wei o Yuri Engelhardt, entre otros.
+
+
+\section*{Migraciones}
+\label{sec-3}
+
+Qué nos dice la Real Academia Española de la Lengua:
+
+\begin{quote}
+\url{http://dle.rae.es/?id=PE38JXc}
+Del lat. migratio, -ōnis.
+
+\begin{enumerate}
+\item f. Viaje periódico de las aves, peces u otros animales migratorios.
+
+\item f. Desplazamiento geográfico de individuos o grupos, generalmente por causas económicas o sociales.
+
+\item f. Inform. Paso de los programas, archivos y datos de un sistema desde una determinada plataforma tecnológica a otra diferente.
+
+\item f. Quím. Desplazamiento de una sustancia.
+\end{enumerate}
+\end{quote}
+
+El tema de las migraciones es absolutamente de actualidad y lo seguirá siendo, sobre todo en su versión más dramática y extrema de lxs refugiadxs de conflictos provocados, alentados, observados o tolerados por las potencias occidentales.
+
+En 2014 nos interesó un proyecto que se desarrolló en México, \textbf{Migrahack} --lamentablemente no queda su web original pero afortunadamente existe \href{https://web-beta.archive.org/web/20150317032615/http://justicejournalism.org/es/events/ciudad-de-mexico-mexico-2014}{archive.org}--, donde buscaron dar mayor visibilidad al tema de inmigración, descifrar las historias que ocultan los números y unir los datos con la creatividad y la tecnología para narrar la situación diaria de los migrantes, su aportación vital, la evolución de la inmigración entre México, Estados Unidos y Centro América y descifrar algunas de las percepciones erróneas sobre este segmento de la población.
+
+En Visualizar buscamos dar sentido a la compleja realidad, muchas veces filtrada por los datos, a través de visualizaciones. Todas las ediciones pasadas han tomado la ciudad de alguna u otra manera como objeto de estudio, análisis y como territorio a explorar. En este caso nos centramos en una característica, en un proceso, en un comportamiento: el movimiento. Si atendemos a las cuatro acepciones de la palabra \emph{migración}, se pueden vislumbrar con facilidad distintos proyectos que sobre la misma temática toquen distintas perspectivas de la misma, con subgrupos a su vez:
+
+\subsection*{Migraciones de la fauna y flora.}
+\label{sec-3-1}
+\begin{itemize}
+\item Ciclo de la vida
+\item Alteraciones producidas por la mano de la humanidad.
+\item Y más específicamente por el cambio climático.
+\end{itemize}
+
+\subsection*{Migraciones de personas o grupos.}
+\label{sec-3-2}
+\begin{itemize}
+\item Migraciones económicas o laborales.
+\item Personas que buscan refugio por incumplimiento de los derechos humanos.
+\item Personas que huyen de las guerras.
+\item Turismo, vacaciones, viajes de placer
+\item Viajes científicos, académicos, estudiantes
+\end{itemize}
+
+\subsection*{Migraciones de datos.}
+\label{sec-3-3}
+\begin{itemize}
+\item Movimiento de datos en la Web y cualquier otro servicio de Internet
+\item Privacidad de los datos
+\item Rastro de personas
+\item Rastro de cosas
+\item Migración de datos
+\item Migración de aplicaciones
+\end{itemize}
+
+\subsection*{Migraciones de sustancias (física y química).}
+\label{sec-3-4}
+\begin{itemize}
+\item La vida es migrante
+\item (por desarrollar)
+\end{itemize}
+
+\section*{Movilidad}
+\label{sec-4}
+
+También nos gustaría resaltar la conveniencia del tema en cuanto está relacionado con otros talleres de Medialab-Prado que estamos desarrollando este año, el \href{http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia}{taller de producción de periodismo de datos 2017} (tppd17) e \href{http://medialab-prado.es/article/interactivos17}{Interactivos'17} (interactivos17). Si en el primero abordamos la movilidad en el territorio \textbf{España} y buscamos a través de los datos buenas historias que compongan proyectos periodísticos, en el segundo nos centramos en el territorio \textbf{ciudad}, mientras que en Visualizar'17 el territorio es el \textbf{mundo}.
+% Emacs 24.5.1 (Org mode 8.2.10)
+\end{document}

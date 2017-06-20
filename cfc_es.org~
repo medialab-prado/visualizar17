@@ -1,0 +1,123 @@
+#+CATEGORY: proyecto, curro, medialab-prado
+#+TAGS: transparencia, participación ciudadana, open data, datos abiertos
+#+DESCRIPTION: Agenda del proyecto de Transparencia y participación ciudadana de Medialab-Prado
+#+TITLE: Visualizar'16: Convocatoria de colaboradores
+#+DATE: [2016-07-04 lun 11:30]
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+OPTIONS: todo:nil pri:nil tags:nil ^:nil 
+
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:nil
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight markdown notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+
+Convocatoria para colaborar en el taller internacional de desarrollo
+de proyectos /Visualizar'16 Ciudades abiertas, Open Cities/ que se
+celebra *del 26 de septiembre al 5 de octubre*. Los colaboradores
+participarán en la producción de los proyectos seleccionados.
+
+La inscripción es gratuita y finaliza una semana antes del comienzo
+del taller, el *19 de septiembre*. Medialab-Prado ofrece alojamiento gratuito para los
+colaboradores que lo necesitan, en albergue (habitaciones compartidas)
+durante el taller (plazas limitadas previa petición y por orden de
+inscripción, hasta *19 de septiembre*.
+
+* Acerca de esta convocatoria
+
+Medialab-Prado publica una convocatoria para todos aquellas que
+quieran participar en el taller /Visualizar'16 Ciudades abiertas, Open Cities/, como colaborador/a en alguno de los grupos de trabajo que desarrollarán las propuestas seleccionadas.
+
+La figura del colaborador es fundamental en el planteamiento y
+desarrollo de los talleres de Medialab-Prado, pues estos se conciben
+como espacios de trabajo colaborativo, intercambio de conocimientos y
+formación teórico-práctica, en un ambiente de relación horizontal
+entre tutores, desarrolladores y los propios colaboradores.
+
+Los colaboradores pueden formar parte del equipo de desarrollo de una
+o más de las propuestas seleccionadas según sus intereses, aportando
+sus conocimientos e ideas al mismo tiempo que aprenden del resto del
+grupo y de los tutores del taller.
+
+No obstante, sugerimos que los colaboradores se centren en una
+propuesta para garantizar un mayor comprometimiento con ella durante
+todas las fases del taller.
+
+Según está especificado en las bases de la convocatoria, los nombres
+de los colaboradores aparecerán en los créditos del
+proyecto. Asimismo, Medialab-Prado entregará un documento acreditativo
+de la participación en el taller a aquellos colaboradores que lo
+soliciten.
+
+El taller se desarrollará *del 26 de septiembre al 4 de octubre* en
+horario de 10:00 a 20:30h, con una pausa para comer. Ocasionalmente
+habrá pequeños talleres y presentaciones entre las 18:30h y las
+20:30h.
+
+Si estás interesado, rellena y envía el FORMULARIO que encontrarás más
+abajo.
+
+Si tienes alguna duda, puedes consultar las preguntas frecuentes o
+escribir a adolfo(arroba)medialab-prado.es.
+
+* Asignación de plaza en el taller
+
+No se realiza proceso de selección para colaboradores, por lo que
+todas las inscripciones recibidas serán aceptadas hasta completar
+aforo. Una vez enviado el formulario, recibirás un correo electrónico
+automático confirmando que tus datos se han recibido correctamente, lo
+que significa que cuentas con tu plaza de colaborador en el taller. La
+confirmación como colaborador no implica directamente que cuentes con
+plaza en el Albergue (ver siguiente apartado).
+
+* Alojamiento
+
+Para los residentes fuera de Madrid, Medialab-Prado cubrirá un número
+limitado de plazas en albergues durante los días de celebración del
+taller. La asignación de plaza se realizará por estricto orden de
+solicitud, por lo que la inscripción como colaborador no garantiza
+automáticamente la obtención de plaza en el albergue.
+
+No olvides marcar en el formulario las fechas de entrada y salida si
+optas por esta opción (fechas de estancia máxima en el albergue que
+serán entrada 2016-09-25 y salida 2016-10-06, y Medialab-Prado se
+pondrá contigo para la reserva final de tu alojamiento.
+
+La fecha límite para solicitar plaza es el *19 de septiembre*.
+ 
+Medialab-Prado no cubre gastos de viaje ni dietas.
+
+* Comunidad Medialab-Prado
+
+Los grupos de trabajo empezarán a formarse desde ahora a través de la
+[[http://comunidad.medialab-prado.es/][Comunidad]], una red social específica donde las personas interesadas
+podrán contactar con los promotores de los proyectos y con el resto de
+colaboradores para plantear dudas, comentarios o posibles formas de
+colaboración. Los grupos terminarán de conformarse durante la
+presentación inicial del proyectos.
+
+* Indicaciones para completar el formulario
+
+1. En el campo de "Comentarios" debes indicar:
+ - Disponibilidad horaria y temporal para participar en el taller (se
+   recomienda el mayor grado de dedicación posible dado que se trata
+   de un taller intensivo)
+ - Título del proyecto en el que te gustaría participar (en caso de saberlo).
+2. Alojamiento: albergues en habitaciones compartidas con desayuno
+   incluido. Plazas limitadas. Asignación de plaza según riguroso
+   orden de inscripción.
+3. Estancia máxima:
+ - Entrada: 2016-09-26
+ - Salida: 2016-10-06
+

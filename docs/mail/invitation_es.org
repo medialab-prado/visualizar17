@@ -1,0 +1,73 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: 
+#+TAGS: 
+#+DESCRIPTION: 
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: 
+#+DATE: [2016-12-16 mié 16:00]
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+Hola, 
+
+Soy Adolfo Antón Bravo y actualmente lidero el DataLab de Medialab-Prado (Madrid, España), un centro cultural del Ayuntamiento de Madrid conocido internacionalmente y que se define como un laboratorio ciudadano que trata de conectar las comunidades locales con personas de dentro y fuera de España que trabajan en distintas áreas de interés para Medialab.
+
+Ahora estoy organizando Visualizar'17, un taller internacional centrado en la visualización de datos de dos semanas de duración de septiembre de 2017.
+
+[[http://medialab-prado.es/visualizar][Visualizar]] celebra su décimo aniversario con un taller dedicado a las [[http://s.coop/visualizar17][Migraciones]] realizado en colaboración con [[http://porcausa.org][PorCausa]].
+
+El taller fue iniciado en 2007 por José Luis de Vicente, con quien seguimos teniendo una importante relación. Esta es la tercera edición en la que participo como coordinador y la segunda a bordo del Laboratorio de Datos.
+
+* Visualizar'17: Migraciones
+
+El programa Visualizar celebra su décimo aniversario con un taller dedicado a las /Migraciones/ organizado en colaboración con PorCausa.
+
+La migración humana es una de las acepciones de la palabra, según el diccionario de la Real Academia Española de la Lengua, pero no es el único. El término también se refiere a otras migraciones y, por tanto, a otros escenarios: especies, cosas, datos o sustancias son también objeto posible de estudio.
+
+A lo largo de las ediciones pasadas, han colaborado personas como Ben Fry, Aaron Koblin, Stamen, Fernanda Viegas, Adam Greenfield, Bestiario, Adrian Holovaty, Sunlight Foundation, Mark Hansen, Manuel Lima, Dietmar Offenhuber, Amber Frid-Jimenez, Andrew Vande Moere, Greg Bloom, Sisi Wei, Yuri Engelhardt, Óscar Corcho, Alejandro Zappala, María Poveda, Daniel Vila Suero, Nandana Mihindukulasooriya, Ignasi Alcalde o Gonzalo Abril, entre muchos otros.
+
+* Invitación
+
+Me gustaría invitarte a compartir esta experiencia con nosotrxs de alguna de las maneras posibles. Aunque hay muchas, me detendré en las dos más comunes:
+
+** Ponente
+
+La forma más fácil de participar con nosotrxs es como ponente en el simposio de apertura, dos días en los que los participantes en el taller, incluidos lxs líderes de los proyectos y lxs colaboradorxs, buscan la inspiración que les sirva para enriquecer sus proyectos.
+
+** Mentoría
+
+La forma más interesante de participar es ser una de las personas que mentoricen los proyectos de Visualizar. Esto significa trabajar con nosotrxs al menos los quince días del taller, del 15 al 30 de septiembre, donde también cabe la participación en el simposio o algún taller que se proponga.
+
+** Otras
+
+Quizás te interese mentorizar los proyectos del taller pero sólo tienes disponible una de las dos semanas... Quizás conoces a alguien que pueda estar interesadx... Quizás lideras una iniciativa que podría colaborar de alguna manera... Quizás te gustaría conocer los resultados para utilizarlos más adelante de alguna manera... Por favor, no dudes en preguntar o sugerir cualquier otra forma de colaboración.
+
+* Feedback
+
+¿Cómo te suena todo esto? ¿Te gustaría estar en Madrid con nosotrxs la segunda quincena de septiembre o al menos para el simposio?
+
+Por cierto, nos ocupamos de los gastos de viaje y alojamiento, además de una pequeña remuneración.
+
+Espero saber noticias tuyas pronto!
+
+Un saludo y gracias por adelantado
