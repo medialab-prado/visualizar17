@@ -1,0 +1,121 @@
+
+* Bios
+
+** Samuel Granados
+Editor gráfico senior en [[https://www.washingtonpost.com/people/samuel-granados/][The Washington Post]] desde 2014, antes en La
+Nación de Argentina y en [[http://publico.es][Público]] y [[http://www.elmundo.es][El Mundo]] de España, y como
+freelance en /Il Corriere della Sera/ (Italia), /Courrier
+International/ (Francia), /Libero/ y /Mongolia/ en España. Licenciado
+en diseño de la comunicación por la Universidad Politécnica de Milán y
+licenciado en periodismo por la Universidad de Málaga. También es
+doctorando de una investigación sobre la semiótica visual en el
+periodismo gráfico.
+- [[http://cargocollective.com/samuelgranados][Cargo Collective]]
+- Twitter: [[https://twitter.com/samugranados][samugranados]]
+
+
+** Yuri Engelhardt
+[[http://yuriengelhardt.com/][Assistant professor]] and co–coordinator of the multidisciplinary data
+visualization curriculum at the University of Amsterdam. 
+** Invitadxs
+*** Gonzalo Abril
+[[http://pendientedemigracion.ucm.es/info/per3/profesores/gabril/][Doctor en Filosofía]], catedrático, profesor emérito en la Facultad de
+Ciencias de la Información de la Universidad Complutense de Madrid.
+*** Craig Mills
+- [[https://twitter.com/craigmmills][@craigmills]]
+CEO of Vizzuality: Visualising Good.
+*** Javier Pérez
+Director de CIECODE
+*** Mariano Salvador
+Director de la Fundación Zaragoza Ciudad del Conocimiento
+*** Sergio Leiva
+- [[https://twitter.com/saleiva?lang=es][@saleiva]]
+Jefe de producto en Carto.
+*** Alberto González
+
+* Agenda
+** Simposio: 26-27
+*** Inauguración, 2016/09/26
+- 9:30-10:00, recepción y café
+- 10:00-10:15, presentación de Visualizar'16, por Laura Fernández y
+  Adolfo Antón Bravo de Medialab-Prado.
+- 10:15-11:15, Visibilidad e invisibilidad, por Gonzalo Abril
+  (Universidad Complutense de Madrid).
+- 11:30-12:15, [[http://tipiciudadano.es/][TIPI ciudadano]]: Transparencia, información,
+  participación, incidencia, por Javier Pérez (CIECODE)
+- 12:15-13:00, debate
+- 13:00-14:30, comida
+- 14:30-15:30, presentación [[http://medialab-prado.es/article/visualizar16-proyectos-seleccionados][proyectos]]
+- 15:30-18:00, presentación colaboradores y formación de equipos
+- 18:00-18:30, merienda
+- 18:30-19:30, Dataviz projects, [[https://www.propublica.org/site/author/sisi_wei][Sisi Wei]]
+- 19:30-20:30, networking
+*** Segunda sesión, 2016/09/27
+- 9:30-10:00, desayuno
+- 10:00-13:00, trabajo de equipos
+- 13:00-14:30, comida
+- 14:30-18:00, trabajo de equipos
+- 18:00-18:30, merienda
+- 18:30-18:50, [[http://paseoproject.es/][Paseo Project]], por Mariano Salvador (Fundación Zaragoza
+  Ciudad del Conocimiento)
+- 18:50-19:10, Sergio Leiva (Carto)
+- 19:10-19:30, Alberto González (Quadrigram)
+- 19:30-19:50, Craig Mills ([[http://www.vizzuality.com/][Vizzuality]]): Visualising
+  Good. Visualisations reach every aspect of society, in every corner
+  of the world. In his talk Craig Mills, CEO of vizzuality will discuss how
+they are using data visualisation to shape people's perceptions of the
+planet. Dedicated to solving issues related to climate change,
+inequality, nutrition and transparent governments, Craig will show you
+how the White House prepares their counties for climate change, Kenyan
+farmers change the way they grow crops to save water, Swaziland health
+workers reduce malaria and how millions of people are monitoring every
+forest on the planet, all with the help of data visualisation. He'll
+also look at what is missing in the space of data visualisation and
+social good, and what vizzuality are trying to do to solve it. The
+talk will be dressed with some of the best interactive visualisations
+on the web, please come along and enjoy!
+- 19:50-20:30, debate y networking
+
+** Sesiones de trabajo en equipo: 28/9-3/10
+Esquema de los días 28 septiembre-3 de octubre, incluidos:
+
+- 9:30-10:00, desayuno			
+- 10:00-13:00, trabajo			
+- 13:00-14:30, comida			
+- 14:30-18:00, trabajo			
+- 18:00-18:30, merienda			
+- 18:30-20:30, talleres/libre
+
+El día 28 comenzarán las sesiones críticas, ronda de entrevistas con
+los equipos para analizar el esquema de trabajo planteado y realizar
+propuestas sobre el mismo.
+
+** Charlas/talleres 28/9-3/10
+ - 2016/10/01, 18:30-20:30, Charla de Visualización de datos, Ignasi
+   Alcalde (ODI Barcelona) 
+ - 2016/10/02, 18:30-20:30, Charla de datos abiertos, vocabularios y
+   ontologías, María Poveda (OEG-UPM y ODI-Madrid).
+ - 2016/10/03, 18:30-20:30, Taller de Carto, Ramiro Aznar (Carto)
+ - Standard and Open Data for Social and Community Services, Open
+   Referral, Greg Bloom.
+ - Los datos cartográficos como motores de los datos abiertos,
+   Alejandro Zappala (Adappgeo)
+ - Usabilidad de las aplicaciones de datos, Daniel Vila (OEG-UPM)
+
+** 4 de octubre
+Dia de finalización de proyectos.
+
+Además, se celebra en Medialab-Prado el /DDJ Action Day/, de
+periodismo de datos, en colaboración con [[http://schoolofdata.org][School of Data]], en Alameda0 y
+las Salas A y B, por lo que podremos trabajar en la finalización de los proyectos y/o
+disfrutar de los talleres o sesiones.
+
+** 5 de octubre
+
+Presentación pública de los proyectos desarrollados. Contaremos con 7
+minutos cada proyecto en dinámica Petcha Kucha
+
+Este día celebramos en Medialab el tercer evento previo oficial de
+IODC16, la cumbre de las ciudades abiertas o [[http://opencitiessummit.org][Madrid Open Cities Summit
+2016]]. Qué mejor evento que éste para realizar la presentación
+pública. Disponemos de una hora para los 8 proyectos.						

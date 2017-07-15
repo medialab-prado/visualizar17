@@ -23,15 +23,18 @@
 #+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
 #+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
 
-¿Quieres proponer un proyecto para /Visualizar'17: Migraciones/?
-Rellena el formulario antes del 18 de junio. Durante el taller que
-celebramos del 15 al 30 de septiembre, se desarrollarán
-simultáneamente un máximo de 8 propuestas seleccionadas entre las que
-respondan a esta convocatoria abierta de ideas o proyectos.
+Would you like to apply for the /Visualizar'17: Migrations/ call for
+projects?  Fill out the form before June 18. During the workshop we will
+celebrate from 15 to 30 September, there will be developed simultaneously a
+maximum of 8 proposals selected from this open call for ideas or projects.
 
-#+CAPTION: Visualizar17: Migraciones, CC BY NC 2.0
-#+ATTR_HTML: :alt Visualizar17: Migraciones, CC BY NC 2.0 :title v17
-http://medialab-prado.es/mmedia/20/20307/500_0.jpg
+#+CAPTION: Migration, por ashokboghani, CC BY NC 2.0
+#+ATTR_HTML: :alt Migration, por ashokboghani, CC BY NC 2.0 :title v17
+http://medialab-prado.es/mmedia/20/20249/500_0.jpg
+
+The proposals submitted must necessarily be open to the pParticipation
+of collaborators or interested parties who can contribute to their
+development during the workshop.
 
 Las propuestas presentadas deberán estar necesariamente abiertas a la
 participación de colaboradorxs interesadxs que puedan contribuir a su

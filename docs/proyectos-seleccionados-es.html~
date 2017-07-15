@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Proyectos seleccionados para Visualizar17: Migraciones</title>
+<meta name="generator" content="Org mode" />
+<meta name="description" content="Listado de proyectos seleccionados para Visualizar17: Migraciones, a desarrollar del 15 al 30 de septiembre junto con lxs colaboradorxs"
+ />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Proyectos seleccionados para Visualizar17: Migraciones</h1>
+<div id="table-of-contents">
+<h2>&Iacute;ndice</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgdb8637b">Se cultivan allá, se consumen aquí: la travesía de los alimentos hacia tu despensa</a></li>
+<li><a href="#org50ead9a">Agrega.la</a></li>
+<li><a href="#orgf6f0551">Trackula</a></li>
+<li><a href="#orgd984864">Lxs menorxs refugiadoxs de la guerra de Siria</a></li>
+<li><a href="#orgb503c89">Mobilomics</a></li>
+<li><a href="#org145283f">Cerebros en movimiento</a></li>
+<li><a href="#org16588f7">Población dirigida: el caso de lxs colonxs de la España verde de Franco</a></li>
+<li><a href="#org1a093bc">Planeta excedencia</a></li>
+</ul>
+</div>
+</div>
+<p>
+Os presentamos los ocho proyectos seleccionados de la <a href="http://medialab-prado.es/article/visualizar17-migraciones-convocatoria-de-proyectos">convocatoria de
+proyectos</a> de <a href="http://medialab-prado.es/article/visualizar17-migraciones">Visualizar17: Migraciones</a>, taller internacional de
+visualización de datos realizado en colaboración con
+<a href="https://porcausa.org/">PorCausa.org</a>. ¡Apúntate a la <a href="http://medialab-prado.es/article/visualizar17-migraciones-convocatoria-de-colaboradorxs">convocatoria de colaboradorxs</a>!
+</p>
+
+
+<div class="figure">
+<p><img src="http://medialab-prado.es/mmedia/20/20392/500_0.png" alt="Visualizar17: Migraciones. 15-30 septiembre con PorCausa.org, CC BY NC 2.0" title="v17" />
+</p>
+<p><span class="figure-number">Figura 1: </span>Visualizar17: Migraciones, 15-30 septiembre con PorCausa.org, CC BY NC 2.0</p>
+</div>
+
+<p>
+Os recordamos que el taller se desarrolla del <b>15 al 30 de septiembre
+de 2017</b> y que para participar hay que apuntarse a la <a href="http://medialab-prado.es/article/visualizar17-migraciones-convocatoria-de-proyectos">Convocatoria
+de colaboradorxs</a> que permanece abierta del <b>27 de junio al 7 de
+septiembre</b>.
+</p>
+
+<p>
+Los 8 proyectos contarán con el apoyo y asesoramiento del <a href="http://medialab-prado.es/article/visualizar17-migraciones#org65fba37">equipo de
+Visualizar17</a>.
+</p>
+
+<div id="outline-container-orgdb8637b" class="outline-2">
+<h2 id="orgdb8637b">Se cultivan allá, se consumen aquí: la travesía de los alimentos hacia tu despensa</h2>
+<div class="outline-text-2" id="text-orgdb8637b">
+<p>
+De <b>Flora Fosset</b>
+</p>
+
+<p>
+Desde hace décadas, los habitantes de centros urbanos se desconectaron
+del mundo agrícola y del ritmo natural de la tierra.
+</p>
+
+<p>
+Hay dos maneras de tener todo tipo de fruta y verdura todo el año:
+importando o cultivando en invernaderos climatizados. Los dos métodos
+generan gases de efecto invernadero, destrozando cada vez más el medio
+ambiente.
+</p>
+
+<p>
+Es necesaria una herramienta que permita saber qué comer de cultivo
+local y de temporada. Este proyecto tiene por objetivo elaborar una
+aplicación que permita saber con precisión qué frutas y verduras se
+están cosechando en cada región de España según la época y el tipo de
+cultivo. Así aportamos una herramienta para quien quiera consumir
+responsablemente, limitando el transporte excesivo de alimentos y el
+cultivo en invernaderos climatizados.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org50ead9a" class="outline-2">
+<h2 id="org50ead9a">Agrega.la</h2>
+<div class="outline-text-2" id="text-org50ead9a">
+<p>
+de <i>Adriano Belisario</i>
+</p>
+
+<p>
+Agrega.la es una red presente en Brasil, Argentina, Colombia y México,
+que tiene como objetivo promover la visibilización de contenidos y
+acciones entre medios independientes, libres o comunitarios.
+</p>
+
+<p>
+Su plataforma constantemente hace copias de los posts publicados en
+Facebook, Twitter o RSS para tener un acceso público y universal al
+contenido que de otra manera permanece cautivo.
+</p>
+
+<p>
+De esta forma se pretende visualizar y fortalecer la labor de los
+colectivos y medios que trabajan de forma autogestionada e
+independiente para producir su propia información, la cual no tiene la
+misma difusión e impacto que la de los medios masivos o tradicionales
+de su ciudad o territorio, y que utilizan los medios de una empresa
+privada.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf6f0551" class="outline-2">
+<h2 id="orgf6f0551">Trackula</h2>
+<div class="outline-text-2" id="text-orgf6f0551">
+<p>
+De <i>Santiago Saavedra López y Sofía Prosper Díaz-Mor</i>
+</p>
+
+<p>
+Trackula consiste en una forma de poder visualizar cómo distintos
+entes pueden rastrear tus migraciones por la web, de forma
+inadvertida, y visualizar las relaciones entre ellos, y cuánta
+información de ti pueden estar disponiendo.
+</p>
+
+<p>
+Se plantea como una infografía interactiva en forma de web sobre el
+historial individual, personalizada con los datos del navegador de
+cada uno, de forma que uno pueda ver, en su realidad, qué información
+está decidiendo otorgar a terceros al navegar por Internet.
+</p>
+
+<p>
+El carácter individual la convierte en una experiencia muy personal,
+siendo el impacto producido diferente en cada caso, y relacionado con
+la experiencia de cada uno con la web.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd984864" class="outline-2">
+<h2 id="orgd984864">Lxs menorxs refugiadoxs de la guerra de Siria</h2>
+<div class="outline-text-2" id="text-orgd984864">
+<p>
+de <i>Ferrán Morales Jacas</i>
+</p>
+
+<p>
+Con los datos de migraciones del Informe <b>THE GROWING CRISIS FOR
+REFUGEE AND MIGRANT CHILDREN</b> de <i>Unicef</i>, realizaremos un proyecto de
+visualización sobre el impacto de la migración de los niños y niñas de
+Siria, desde el inicio de la guerra en 2010 hasta los datos más
+actuales que se dispongan.
+</p>
+
+<p>
+270.000 menores de edad, refugiadxs, llegaron a Europa
+durante el año 2015, de lxs cuales más de 26.000 estaban solos, sin familia y sin
+ninguna persona adulta que cuidara de ellxs, según los datos de <i>Save
+the Children</i> y Unicef. De estxs, 10.000 niños se encuentran
+actualmente desaparecidxs según la Europol.
+</p>
+
+<p>
+Nuestro proyecto de visualización constará de diferentes capítulos, de
+los cuales los primeros servirán para contextualizar la situación
+actual de Siria, para llegar a lxs niñxs desaparecidxs.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgb503c89" class="outline-2">
+<h2 id="orgb503c89">Mobilomics</h2>
+<div class="outline-text-2" id="text-orgb503c89">
+<p>
+de <i>David Pastor</i>
+</p>
+
+<p>
+Este proyecto trata de desarrollar una plataforma para visualizar
+patrones y perfiles asociados a distintos objetivos: eventos,
+localizaciones geográficas o grupos de población específicos. Resulta
+crítico para abordar fenómenos como las migraciones por alguna de sus
+causas.
+</p>
+
+<p>
+Pretende ofrecer una adecuada visualización de la movilidad y las
+migraciones que se pueda adaptar a grupos de población específica y
+grupos de interés según el ámbito de estudio relacionado.
+</p>
+
+<p>
+La capacidad de geolocalizar de las plataformas de visualización no
+sirve a la hora ofrecer datos desagregados según el grupo de población
+de interés en cada caso.
+</p>
+
+<p>
+Se deben explotar además otras fuentes de datos como las redes
+sociales, datos de telefonía móvil o sensores de geolocalización para
+entender la movilidad y las migraciones.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org145283f" class="outline-2">
+<h2 id="org145283f">Cerebros en movimiento</h2>
+<div class="outline-text-2" id="text-org145283f">
+<p>
+De <i>Clara Lima Romero</i>, <i>Michele Catanzaro</i> y <i>Elisa Vivas</i>, de <i>El
+Periódico de Catalunya</i>.
+</p>
+
+<p>
+Entre lxs científicxs está difundida la percepción que la crisis y los
+recortes han abierto un boquete en la ciencia de los países afectados
+por el cual ha salido mucho talento que han recibido otros. También
+cuestiones como el Brexit pueden afectar a estas migraciones.
+</p>
+
+<p>
+Sin embargo, no existen datos conclusivos que lo confirmen. Aprovechando
+este vacío, algunos gobiernos (como el español) argumentan que no hubo
+fuga de cerebros, sino un normal patrón de movilidad, con cesión y
+adquisición de talento en iguales proporciones.
+</p>
+
+<p>
+¿Cómo abordar este asunto con certeza? A través de una base de datos
+de currículos de científicxs, repositorio que acumulan millones de
+perfiles y permiten detectar los cambios de país emprendidos por un
+determinado investigador, a medida que su afiliación cambia en el
+tiempo.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org16588f7" class="outline-2">
+<h2 id="org16588f7">Población dirigida: el caso de lxs colonxs de la España verde de Franco</h2>
+<div class="outline-text-2" id="text-org16588f7">
+<p>
+De <i>Carmen Pellicer Balsalobre</i>
+</p>
+
+<p>
+Entre los años 1939 y 1973, el Instituto Nacional de Colonización
+promovió la construcción en España de más de 300 pueblos. El ambicioso
+plan que tenía como objetivo la creación de amplias zonas de regadío y
+el aumento de su productividad movilizó aproximadamente a 55.000
+familias.
+</p>
+
+<p>
+Este hecho supuso el movimiento migratorio de mayor envergadura
+promovido por el Estado español en el siglo XX. La colonización fue un
+proceso multidimensional caracterizado por una toma abundante de
+datos. Acceder a estos es por tanto acceder a la memoria de una
+transformación. La historia de un conjunto de mundos creados de la
+nada, contada desde la consulta y visualización continua de datos
+históricos de archivos y estudios legitimados.
+</p>
+
+<p>
+Ventanas de datos, en definitiva, a un territorio cuya escala y
+memoria cambiaron para siempre.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1a093bc" class="outline-2">
+<h2 id="org1a093bc">Planeta excedencia</h2>
+<div class="outline-text-2" id="text-org1a093bc">
+<p>
+De <i>María Llop</i>
+</p>
+
+
+<p>
+A partir del estudio de los organismos beneficiarios del programa operativo FEDER, concedido por la Unión Europea en el periodo 2007/2013 nos centraremos en las subvenciones entregadas en la Comunidad de Madrid. Queremos comprobar el destino de todas aquellas ayudas que entrega la UE para convertirse en cofinanciadora (50%) y que gestionan los Ayuntamientos de más de 35.000 habitantes; comprobar si financiaron las iniciativas culturales, industriales, científicas, sociales, innovadoras&#x2026; para las que fueron solicitadas, y también a qué se debe la frecuente diferencia que existe entre el montante concedido y el montante pagado al final de la operación. Queremos visualizar el uso de los Fondos de Desarrollo Regional y a partir de ahí, seguir el rastro del dinero para investigar posibles irregularidades, actuaciones dudosas de los intermediarios-gestores y destino a finalidades poco comprensibles para el ciudadano de a pie.
+</p>
+
+<p>
+<a href="http://comunidad.medialab-prado.es/es/proyectos/bienvenido-mr-feder">Conecta con este proyecto a través de la Comunidad</a>
+</p>
+
+<p>
+Link: Link: <a href="http://comunidad.medialab-prado.es/es/proyectos/la-deuda-p-blica-del-f-tbol">http://comunidad.medialab-prado.es/es/proyectos/la-deuda-p-blica-del-f-tbol</a>
+De <i>María Llop</i>.
+</p>
+
+<p>
+En España, hay hombres y mujeres que cuando son padres deciden migrar
+al planeta de la excedencia por cuidado de hijxs. En ocasiones, es una
+migración sin retorno al mundo laboral.
+</p>
+
+<p>
+Este proyecto quiere visualizar esta realidad y profundizar en ella
+para analizar cuánto de voluntaria es esta opción como posible forma
+de conciliación entre la vida laboral y la familiar.
+</p>
+
+<p>
+Para ello preguntaremos a los escasos datos disponibles y diseñaremos
+una encuesta que nos dé pistas sobre la información que desconocemos.
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Fecha: 2017-06-27 mar 00:00</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
