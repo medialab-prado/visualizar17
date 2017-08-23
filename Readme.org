@@ -26,22 +26,39 @@
 #+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
 
 *Visualizar* es un taller internacional de prototipado de proyectos de
-*visualización de datos*. En [[http://s.coop/visualizar17][Visualizar'17: Migraciones]] se cumple el *décimo aniversario* --que no la décima edición-- de este proyecto que pretende "atender a la disciplina de la visualización de datos, un elemento transversal que utiliza el inmenso poder de comunicación de las imágenes para explicar de manera comprensible las relaciones de significado, causa y dependencia que se pueden encontrar entre las grandes masas abstractas de información que generan los procesos científicos y sociales".
+*visualización de datos*. En [[http://s.coop/visualizar17][Visualizar'17: Migraciones]] se cumple el
+**décimo aniversario* --que no la décima edición-- de este proyecto
+*que pretende "atender a la disciplina de la visualización de datos,
+*un elemento transversal que utiliza el inmenso poder de comunicación
+*de las imágenes para explicar de manera comprensible las relaciones
+*de significado, causa y dependencia que se pueden encontrar entre las
+*grandes masas abstractas de información que generan los procesos
+*científicos y sociales".
 
-Desde 2007, el programa [[http://medialab-prado.es/visualizar][Visualizar]] de [[http://medialab-prado.es][Medialab-Prado]] investiga las implicaciones sociales, culturales y artísticas de la cultura de los datos, y propone metodologías para hacerlos más comprensibles y abrir
+* Visualizar
+
+Desde 2007, el programa [[http://medialab-prado.es/visualizar][Visualizar]] de [[http://medialab-prado.es][Medialab-Prado]] investiga las
+implicaciones sociales, culturales y artísticas de la cultura de los
+datos, y propone metodologías para hacerlos más comprensibles y abrir
 caminos para la participación y la crítica.
 
 Visualizar parte de la investigación iniciada por *José Luis de Vicente* en 2007 en torno a las estéticas de la representación de la información en el contexto de diversos festivales y exposiciones:
 - /Randonee: Un paseo por el paisajismo del Siglo XXI/ (Exposición dentro de Sónar 2005, Barcelona, CCCB)
-- /How to Do Things With Data - Cómo hacer cosas con Datos/, en OFFF 2006 (Barcelona, CCCB)
+- /How to Do Things With Data - Cómo hacer cosas con Datos/, en OFFF
+  2006 (Barcelona, CCCB)
 - /Estética de Datos/ (Simposio dentro de ArtFutura 2006, Barcelona, Mercat de les Flors).
 
-En las seis ediciones que se han celebrado hasta ahora, el programa Visualizar ha contado con figuras internacionales como Ben Fry, Aaron Koblin, Stamen, Fernanda Viegas, Adam Greenfield, Bestiario, Adrian Holovaty, Sunlight Foundation, Mark Hansen, Manuel Lima, Dietmar Offenhuber, Amber Frid-Jimenez, Andrew Vande Moere, Greg Bloom, Sisi Wei o Yuri Engelhardt, entre otros.
+En las seis ediciones que se han celebrado hasta ahora, el programa
+Visualizar ha contado con figuras internacionales como Ben Fry, Aaron
+Koblin, Stamen, Fernanda Viegas, Adam Greenfield, Bestiario, Adrian
+Holovaty, Sunlight Foundation, Mark Hansen, Manuel Lima, Dietmar
+Offenhuber, Amber Frid-Jimenez, Andrew Vande Moere, Greg Bloom, Sisi
+Wei o Yuri Engelhardt, entre otros.
 
 
 * Migraciones
 
-Qué nos dice la Real Academia Española de la Lengua:
+Qué nos dice la [[http://rae.es/][Real Academia Española de la Lengua]]:
 
 #+BEGIN_QUOTE
 http://dle.rae.es/?id=PE38JXc
@@ -56,11 +73,30 @@ Del lat. migratio, -ōnis.
 4. f. Quím. Desplazamiento de una sustancia.
 #+END_QUOTE
 
-El tema de las migraciones es absolutamente de actualidad y lo seguirá siendo, sobre todo en su versión más dramática y extrema de lxs refugiadxs de conflictos provocados, alentados, observados o tolerados por las potencias occidentales.
+El tema de las migraciones es absolutamente de actualidad y lo seguirá
+siendo, sobre todo en su versión más dramática y extrema de lxs
+refugiadxs de conflictos provocados, alentados, observados o tolerados
+por las potencias occidentales.
 
-En 2014 nos interesó un proyecto que se desarrolló en México, *Migrahack* --lamentablemente no queda su web original pero afortunadamente existe [[https://web-beta.archive.org/web/20150317032615/http://justicejournalism.org/es/events/ciudad-de-mexico-mexico-2014][archive.org]]--, donde buscaron dar mayor visibilidad al tema de inmigración, descifrar las historias que ocultan los números y unir los datos con la creatividad y la tecnología para narrar la situación diaria de los migrantes, su aportación vital, la evolución de la inmigración entre México, Estados Unidos y Centro América y descifrar algunas de las percepciones erróneas sobre este segmento de la población.
+En 2014 nos interesó un proyecto que se desarrolló en México,
+*Migrahack* --lamentablemente no queda su web original pero
+afortunadamente existe [[https://web-beta.archive.org/web/20150317032615/http://justicejournalism.org/es/events/ciudad-de-mexico-mexico-2014][archive.org]]--, donde buscaron dar mayor
+visibilidad al tema de inmigración, descifrar las historias que
+ocultan los números y unir los datos con la creatividad y la
+tecnología para narrar la situación diaria de los migrantes, su
+aportación vital, la evolución de la inmigración entre México, Estados
+Unidos y Centro América y descifrar algunas de las percepciones
+erróneas sobre este segmento de la población.
 
-En Visualizar buscamos dar sentido a la compleja realidad, muchas veces filtrada por los datos, a través de visualizaciones. Todas las ediciones pasadas han tomado la ciudad de alguna u otra manera como objeto de estudio, análisis y como territorio a explorar. En este caso nos centramos en una característica, en un proceso, en un comportamiento: el movimiento. Si atendemos a las cuatro acepciones de la palabra /migración/, se pueden vislumbrar con facilidad distintos proyectos que sobre la misma temática toquen distintas perspectivas de la misma, con subgrupos a su vez:
+En Visualizar buscamos dar sentido a la compleja realidad, muchas
+veces filtrada por los datos, a través de visualizaciones. Todas las
+ediciones pasadas han tomado la ciudad de alguna u otra manera como
+objeto de estudio, análisis y como territorio a explorar. En este caso
+nos centramos en una característica, en un proceso, en un
+comportamiento: el movimiento. Si atendemos a las cuatro acepciones de
+la palabra /migración/, se pueden vislumbrar con facilidad distintos
+proyectos que sobre la misma temática toquen distintas perspectivas de
+la misma, con subgrupos a su vez:
 
 ** Migraciones de la fauna y flora.
  - Ciclo de la vida
