@@ -130,9 +130,6 @@ entender la movilidad y las migraciones.
 Periódico de Catalunya/.
 - Git: https://github.com/medialab-prado/cerebrosEnMovimiento
 
-** Nombre corto
-cerebros
-** Texto
 Entre lxs científicxs está difundida la percepción que la crisis y los
 recortes han abierto un boquete en la ciencia de los países afectados
 por el cual ha salido mucho talento que han recibido otros. También
@@ -186,32 +183,5 @@ de conciliación entre la vida laboral y la familiar.
 Para ello preguntaremos a los escasos datos disponibles y diseñaremos
 una encuesta que nos dé pistas sobre la información que desconocemos.
 
-
-
-=======
-#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
-#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
-#+OPTIONS: reveal_width:1200 reveal_height:800
-#+REVEAL_MARGIN: 0.1
-#+REVEAL_MIN_SCALE: 0.5
-#+REVEAL_MAX_SCALE: 2.5
-#+REVEAL_TRANS: linear
-#+REVEAL_THEME: sky
-#+REVEAL_HLEVEL: 2
-#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
-#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
-#+REVEAL_PLUGINS: (highlight notes)
-#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
-#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
-
-*Visualizar* es un taller internacional de prototipado de proyectos de
-*visualización de datos*. En [[http://s.coop/visualizar17][Visualizar'17: Migraciones]] se cumple el
-**décimo aniversario* --que no la décima edición-- de este proyecto
-*que pretende "atender a la disciplina de la visualización de datos,
-*un elemento transversal que utiliza el inmenso poder de comunicación
-*de las imágenes para explicar de manera comprensible las relaciones
-*de significado, causa y dependencia que se pueden encontrar entre las
-*grandes masas abstractas de información que generan los procesos
-*científicos y sociales".
 
 
