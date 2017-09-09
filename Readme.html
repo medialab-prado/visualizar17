@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Visualizar'17: Migraciones</title>
+<!-- 2017-05-03 mié 15:19 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Adolfo Antón Bravo" />
+<meta  name="description" content="Notas sobre Visualizar"
+ />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Visualizar'17: Migraciones</h1>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1">Fechas</h2>
+<div class="outline-text-2" id="text-1">
+</div><div id="outline-container-sec-1-1" class="outline-3">
+<h3 id="sec-1-1">Vista buena a los textos de taller y convocatoria de proyectos</h3>
+<div class="outline-text-3" id="text-1-1">
+</div>
+</div>
+<div id="outline-container-sec-1-2" class="outline-3">
+<h3 id="sec-1-2">Publicación textos de taller y convocatoria de proyectos</h3>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2">Visualizar'17</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+Visualizar es un taller internacional de prototipado de proyectos de visualización de datos. Este año se cumple el décimo aniversario &#x2013;que no la décima edición&#x2013; de este proyecto que pretende "atender a la disciplina de la visualización de datos, un elemento transversal que utiliza el inmenso poder de comunicación de las imágenes para explicar de manera comprensible las relaciones de significado, causa y dependencia que se pueden encontrar entre las grandes masas abstractas de información que generan los procesos científicos y sociales".
+</p>
+
+<p>
+Desde 2007, el programa Visualizar de Medialab Prado investiga las implicaciones sociales, culturales y artísticas de la cultura de los datos, y propone metodologías para hacerlos más comprensibles y abrir
+caminos para la participación y la crítica. 
+</p>
+
+<p>
+Visualizar parte de la investigación iniciada por José Luis de Vicente en 2007 en torno a las estéticas de la representación de la información en el contexto de diversos festivales y exposiciones:
+</p>
+<ul class="org-ul">
+<li><i>Randonee: Un paseo por el paisajismo del Siglo XXI</i> (Exposición
+</li>
+</ul>
+<p>
+dentro de Sónar 2005, Barcelona, CCCB)
+</p>
+<ul class="org-ul">
+<li><i>How to Do Things With Data - Cómo hacer cosas con Datos</i>, en OFFF 2006 (Barcelona, CCCB)
+</li>
+<li><i>Estética de Datos</i> (Simposio dentro de ArtFutura 2006, Barcelona, Mercat de les Flors).
+</li>
+</ul>
+
+<p>
+En las seis ediciones que se han celebrado hasta ahora, el programa Visualizar ha contado con figuras internacionales como Ben Fry, Aaron Koblin, Stamen, Fernanda Viegas, Adam Greenfield, Bestiario, Adrian Holovaty, Sunlight Foundation, Mark Hansen, Manuel Lima, Dietmar Offenhuber, Amber Frid-Jimenez, Andrew Vande Moere, Greg Bloom, Sisi Wei o Yuri Engelhardt, entre otros.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3">Migraciones</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+Qué nos dice la Real Academia Española de la Lengua:
+</p>
+
+<blockquote>
+<p>
+<a href="http://dle.rae.es/?id=PE38JXc">http://dle.rae.es/?id=PE38JXc</a>
+Del lat. migratio, -ōnis.
+</p>
+
+<ol class="org-ol">
+<li>f. Viaje periódico de las aves, peces u otros animales migratorios.
+</li>
+
+<li>f. Desplazamiento geográfico de individuos o grupos, generalmente por causas económicas o sociales.
+</li>
+
+<li>f. Inform. Paso de los programas, archivos y datos de un sistema desde una determinada plataforma tecnológica a otra diferente.
+</li>
+
+<li>f. Quím. Desplazamiento de una sustancia.
+</li>
+</ol>
+</blockquote>
+
+<p>
+El tema de las migraciones es absolutamente de actualidad y lo seguirá siendo, sobre todo en su versión más dramática y extrema de lxs refugiadxs de conflictos provocados, alentados, observados o tolerados por las potencias occidentales.
+</p>
+
+<p>
+En 2014 nos interesó un proyecto que se desarrolló en México, <b>Migrahack</b> &#x2013;lamentablemente no queda su web original pero afortunadamente existe <a href="https://web-beta.archive.org/web/20150317032615/http://justicejournalism.org/es/events/ciudad-de-mexico-mexico-2014">archive.org</a>&#x2013;, donde buscaron dar mayor visibilidad al tema de inmigración, descifrar las historias que ocultan los números y unir los datos con la creatividad y la tecnología para narrar la situación diaria de los migrantes, su aportación vital, la evolución de la inmigración entre México, Estados Unidos y Centro América y descifrar algunas de las percepciones erróneas sobre este segmento de la población.
+</p>
+
+<p>
+En Visualizar buscamos dar sentido a la compleja realidad, muchas veces filtrada por los datos, a través de visualizaciones. Todas las ediciones pasadas han tomado la ciudad de alguna u otra manera como objeto de estudio, análisis y como territorio a explorar. En este caso nos centramos en una característica, en un proceso, en un comportamiento: el movimiento. Si atendemos a las cuatro acepciones de la palabra <i>migración</i>, se pueden vislumbrar con facilidad distintos proyectos que sobre la misma temática toquen distintas perspectivas de la misma, con subgrupos a su vez:
+</p>
+</div>
+
+<div id="outline-container-sec-3-1" class="outline-3">
+<h3 id="sec-3-1">Migraciones de la fauna y flora.</h3>
+<div class="outline-text-3" id="text-3-1">
+<ul class="org-ul">
+<li>Ciclo de la vida
+</li>
+<li>Alteraciones producidas por la mano de la humanidad.
+</li>
+<li>Y más específicamente por el cambio climático.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-3-2" class="outline-3">
+<h3 id="sec-3-2">Migraciones de personas o grupos.</h3>
+<div class="outline-text-3" id="text-3-2">
+<ul class="org-ul">
+<li>Migraciones económicas o laborales.
+</li>
+<li>Personas que buscan refugio por incumplimiento de los derechos humanos.
+</li>
+<li>Personas que huyen de las guerras.
+</li>
+<li>Turismo, vacaciones, viajes de placer
+</li>
+<li>Viajes científicos, académicos, estudiantes
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-3-3" class="outline-3">
+<h3 id="sec-3-3">Migraciones de datos.</h3>
+<div class="outline-text-3" id="text-3-3">
+<ul class="org-ul">
+<li>Movimiento de datos en la Web y cualquier otro servicio de Internet
+</li>
+<li>Privacidad de los datos
+</li>
+<li>Rastro de personas
+</li>
+<li>Rastro de cosas
+</li>
+<li>Migración de datos
+</li>
+<li>Migración de aplicaciones
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-3-4" class="outline-3">
+<h3 id="sec-3-4">Migraciones de sustancias (física y química).</h3>
+<div class="outline-text-3" id="text-3-4">
+<ul class="org-ul">
+<li>La vida es migrante
+</li>
+<li>(por desarrollar)
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4">Movilidad</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+También nos gustaría resaltar la conveniencia del tema en cuanto está relacionado con otros talleres de Medialab-Prado que estamos desarrollando este año, el <a href="http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia">taller de producción de periodismo de datos 2017</a> (tppd17) e <a href="http://medialab-prado.es/article/interactivos17">Interactivos'17</a> (interactivos17). Si en el primero abordamos la movilidad en el territorio <b>España</b> y buscamos a través de los datos buenas historias que compongan proyectos periodísticos, en el segundo nos centramos en el territorio <b>ciudad</b>, mientras que en Visualizar'17 el territorio es el <b>mundo</b>.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5">Alianza con PorCausa.org</h2>
+<div class="outline-text-2" id="text-5">
+<p>
+Cuando pensamos en aliadxs para este taller inmediatamente pensamos en <a href="http://porcausa.org">Porcausa.org</a>. Fundado por:
+</p>
+
+<ul class="org-ul">
+<li>Sindo Lafuente (Elpais.com, Elmundo.es, Soitu.com, maestro en la Fundación Gabriel García Márquez)
+</li>
+<li>Gonzalo Fanjul (director en ISGlobal, autor del blog de El Pais <i>3.500 millones</i>)
+</li>
+</ul>
+
+<p>
+PorCausa se define como una organización que quiere lugar contra la mentira informativa a través de la información que salva vidas. Por información se refiere a trabajo de investigación y periodismo en temas sociales como la desigualdad, la pobreza o la <b>migración</b>, contenidos de calidad sin enfoques sesgados o dañinos, sin mentira, sin manipulación.
+</p>
+
+<p>
+Trabajan con periodistas de los principales medios de España y Latinoamérica para difundir sus enfoques a través de los grandes medios, pero también con:
+</p>
+
+<ul class="org-ul">
+<li><i>Think tanks</i> de desarrollo del mundo como <a href="https://www.odi.org/">Overseas Development Institute</a> (centrado en desarrollo internacional y humanitario) o <a href="https://www.cgdev.org/">Center for Global Development</a> (centrado en desarrollo internacional)
+</li>
+<li>Universidades como la Rey Juan Carlos, la Carlos III, Autónoma de Madrid, Pontificia de Comillas, Harvard, Standford, Columbia
+</li>
+<li>Con los principales medios y periodistas de nuestro país, como El País, Público, eldiario.es, Cadena Ser, El Intermedio, etc.
+</li>
+</ul>
+
+<p>
+Además, en su patronato cuentan con:
+</p>
+<ul class="org-ul">
+<li>Soledad Gallego Díaz
+</li>
+<li>Iñaki Gabilondo
+</li>
+<li>Carlos Martínez de la Serna, fundador de PorCausa.org y actualmente en Univisión EE.UU.
+</li>
+<li>Giannina Segnini, fundadora de la Unidad de Datos de <i>La Nación</i> de Costa Rica y actualmente profesora en la Universidad de Columbia, Nueva York.
+</li>
+<li>Rosental Calmon Alves, Centro Knight para el Periodismo en las Américas, profesor de periodismo en la Universidad de Texas en Austin, Cátedra Knight de Periodismo y Cátedra UNESCO de Comunicación
+</li>
+<li>Kevin Watkins, director ejecutivo del Overseas Development Institute
+</li>
+<li>José Juan Toharia, fundador y presidente de Metroscopia, Catedrático de Sociología en la Universidad Autónoma de Madrid, primer director de la Escuela de Periodismo UAM-El País y miembro fundador de Cuadernos para el Diálogo.
+</li>
+</ul>
+
+<p>
+Cubren algunas características que pueden hacer que el taller sea un evento de éxito:
+</p>
+<ul class="org-ul">
+<li>Contactos
+</li>
+<li>Posicionados internacionalmente
+</li>
+<li>Expertos en el tema
+</li>
+</ul>
+
+<p>
+Aunque cumplen buena parte de la temática de Visualizar'17, sí que hemos coincidido en que habría que pensar en otras figuras.
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-06 jue 10:00&gt;</span></span></p>
+<p class="author">Author: Adolfo Antón Bravo</p>
+<p class="date">Created: 2017-05-03 mié 15:19</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.5.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
