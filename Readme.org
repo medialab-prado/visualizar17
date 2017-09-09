@@ -10,6 +10,180 @@
 #+LATEX_HEADER: \usepackage[english]{babel}
 #+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
 #+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+<<<<<<< HEAD
+
+*Visualizar* es un taller internacional de prototipado de proyectos de
+*visualización de datos*. Cumplimos diez años con una edición dedicada
+a las *migraciones*.
+
+Estos son los diez proyectos seleccionados:
+
+
+
+* Se cultivan allá, se consumen aquí: la travesía de los alimentos hacia tu despensa
+- Promotora: Flora Fosset
+- Git: https://github.com/medialab-prado/journey-of-food
+
+Desde hace décadas, los habitantes de centros urbanos se desconectaron
+del mundo agrícola y del ritmo natural de la tierra.
+
+Hay dos maneras de tener todo tipo de fruta y verdura todo el año:
+importando o cultivando en invernaderos climatizados. Los dos métodos
+generan gases de efecto invernadero, destrozando cada vez más el medio
+ambiente.
+
+Es necesaria una herramienta que permita saber qué comer de cultivo
+local y de temporada. Este proyecto tiene por objetivo elaborar una
+aplicación que permita saber con precisión qué frutas y verduras se
+están cosechando en cada región de España según la época y el tipo de
+cultivo. Así aportamos una herramienta para quien quiera consumir
+responsablemente, limitando el transporte excesivo de alimentos y el
+cultivo en invernaderos climatizados.
+
+* Agrega.la
+- Promotor: Adriano Belisario
+- Git: https://github.com/medialab-prado/agregala
+Agrega.la es una red presente en Brasil, Argentina, Colombia y México,
+que tiene como objetivo promover la visibilización de contenidos y
+acciones entre medios independientes, libres o comunitarios.
+
+Su plataforma constantemente hace copias de los posts publicados en
+Facebook, Twitter o RSS para tener un acceso público y universal al
+contenido que de otra manera permanece cautivo.
+
+De esta forma se pretende visualizar y fortalecer la labor de los
+colectivos y medios que trabajan de forma autogestionada e
+independiente para producir su propia información, la cual no tiene la
+misma difusión e impacto que la de los medios masivos o tradicionales
+de su ciudad o territorio, y que utilizan los medios de una empresa
+privada.
+
+* Trackula
+- Promotorxs: Santiago Saavedra López y Sofía Prosper Díaz-Mor
+- Git: https://github.com/medialab-prado/trackula
+
+Trackula consiste en una forma de poder visualizar cómo distintos
+entes pueden rastrear tus migraciones por la web, de forma
+inadvertida, y visualizar las relaciones entre ellos, y cuánta
+información de ti pueden estar disponiendo.
+
+Se plantea como una infografía interactiva en forma de web sobre el
+historial individual, personalizada con los datos del navegador de
+cada uno, de forma que uno pueda ver, en su realidad, qué información
+está decidiendo otorgar a terceros al navegar por Internet.
+
+El carácter individual la convierte en una experiencia muy personal,
+siendo el impacto producido diferente en cada caso, y relacionado con
+la experiencia de cada uno con la web.
+
+* Lxs menores refugiadoxs de la guerra de Siria
+- Promotorxs: Ferrán Morales Jacas, Ignasi Alcalde y Amanda Figueras.
+- Git: https://github.com/medialab-prado/menoresRefugiadxs
+
+Con los datos de migraciones del Informe *THE GROWING CRISIS FOR
+REFUGEE AND MIGRANT CHILDREN* de /Unicef/, realizaremos un proyecto de
+visualización sobre el impacto de la migración de los niños y niñas de
+Siria, desde el inicio de la guerra en 2010 hasta los datos más
+actuales que se dispongan.
+
+270.000 menores de edad, refugiadxs, llegaron a Europa
+durante el año 2015, de lxs cuales más de 26.000 estaban solos, sin familia y sin
+ninguna persona adulta que cuidara de ellxs, según los datos de /Save
+the Children/ y Unicef. De estxs, 10.000 niños se encuentran
+actualmente desaparecidxs según la Europol.
+
+Nuestro proyecto de visualización constará de diferentes capítulos, de
+los cuales los primeros servirán para contextualizar la situación
+actual de Siria, para llegar a lxs niñxs desaparecidxs.
+
+
+* Mobilomics
+- Promotor: David Pastor
+- Git: https://github.com/medialab-prado/mobilomics
+
+Este proyecto trata de desarrollar una plataforma para visualizar
+patrones y perfiles asociados a distintos objetivos: eventos,
+localizaciones geográficas o grupos de población específicos. Resulta
+crítico para abordar fenómenos como las migraciones por alguna de sus
+causas.
+
+Pretende ofrecer una adecuada visualización de la movilidad y las
+migraciones que se pueda adaptar a grupos de población específica y
+grupos de interés según el ámbito de estudio relacionado.
+
+La capacidad de geolocalizar de las plataformas de visualización no
+sirve a la hora ofrecer datos desagregados según el grupo de población
+de interés en cada caso.
+
+Se deben explotar además otras fuentes de datos como las redes
+sociales, datos de telefonía móvil o sensores de geolocalización para
+entender la movilidad y las migraciones.
+
+
+* Cerebros en movimiento
+- Promotorxs: Clara Lima Romero, Michele Catanzaro y Elisa Vivas, de /El
+Periódico de Catalunya/.
+- Git: https://github.com/medialab-prado/cerebrosEnMovimiento
+
+** Nombre corto
+cerebros
+** Texto
+Entre lxs científicxs está difundida la percepción que la crisis y los
+recortes han abierto un boquete en la ciencia de los países afectados
+por el cual ha salido mucho talento que han recibido otros. También
+cuestiones como el Brexit pueden afectar a estas migraciones.
+
+Sin embargo, no existen datos conclusivos que lo confirmen. Aprovechando
+este vacío, algunos gobiernos (como el español) argumentan que no hubo
+fuga de cerebros, sino un normal patrón de movilidad, con cesión y
+adquisición de talento en iguales proporciones.
+
+¿Cómo abordar este asunto con certeza? A través de una base de datos
+de currículos de científicxs, repositorio que acumulan millones de
+perfiles y permiten detectar los cambios de país emprendidos por un
+determinado investigador, a medida que su afiliación cambia en el
+tiempo.
+
+
+* Población dirigida: el caso de lxs colonxs de la España verde de Franco
+- Promotorxs: Territorio de datos
+- Git: https://github.com/medialab-prado/poblacion-dirigida
+
+Entre los años 1939 y 1973, el Instituto Nacional de Colonización
+promovió la construcción en España de más de 300 pueblos. El ambicioso
+plan que tenía como objetivo la creación de amplias zonas de regadío y
+el aumento de su productividad movilizó aproximadamente a 55.000
+familias.
+
+Este hecho supuso el movimiento migratorio de mayor envergadura
+promovido por el Estado español en el siglo XX. La colonización fue un
+proceso multidimensional caracterizado por una toma abundante de
+datos. Acceder a estos es por tanto acceder a la memoria de una
+transformación. La historia de un conjunto de mundos creados de la
+nada, contada desde la consulta y visualización continua de datos
+históricos de archivos y estudios legitimados.
+
+Ventanas de datos, en definitiva, a un territorio cuya escala y
+memoria cambiaron para siempre.
+
+* Planeta excedencia
+- Promotora: [[https://twitter.com/m_llop][María Llop]]
+- Git: https://github.com/medialab-prado/planeta-excedencia
+
+En España, hay hombres y mujeres que cuando son padres deciden migrar
+al planeta de la excedencia por cuidado de hijxs. En ocasiones, es una
+migración sin retorno al mundo laboral.
+
+Este proyecto quiere visualizar esta realidad y profundizar en ella
+para analizar cuánto de voluntaria es esta opción como posible forma
+de conciliación entre la vida laboral y la familiar.
+
+Para ello preguntaremos a los escasos datos disponibles y diseñaremos
+una encuesta que nos dé pistas sobre la información que desconocemos.
+
+
+
+=======
 #+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
 #+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
 #+OPTIONS: reveal_width:1200 reveal_height:800
@@ -149,3 +323,4 @@ Además, en su patronato cuentan con:
 - Rosental Calmon Alves, Centro Knight para el Periodismo en las Américas, profesor de periodismo en la Universidad de Texas en Austin, Cátedra Knight de Periodismo y Cátedra UNESCO de Comunicación
 - Kevin Watkins, director ejecutivo del Overseas Development Institute
 - José Juan Toharia, fundador y presidente de Metroscopia, Catedrático de Sociología en la Universidad Autónoma de Madrid, primer director de la Escuela de Periodismo UAM-El País y miembro fundador de Cuadernos para el Diálogo.
+>>>>>>> master
