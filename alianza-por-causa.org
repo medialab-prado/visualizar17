@@ -1,0 +1,36 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: 
+#+TAGS: 
+#+DESCRIPTION: 
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Reunión gestión 2017/06/20
+#+DATE: <2017-06-20 mar>
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+
+
+Cuando pensamos en aliadxs para este taller inmediatamente pensamos en [[http://porcausa.org][Porcausa.org]]. Fundado por:
+
+- Sindo Lafuente (Elpais.com, Elmundo.es, Soitu.com, maestro en la Fundación Gabriel García Márquez)
+- Gonzalo Fanjul (director en ISGlobal, autor del blog de El Pais /3.500 millones/)
+
+PorCausa se define como una organización que quiere lugar contra la mentira informativa a través de la información que salva vidas. Por información se refiere a trabajo de investigación y periodismo en temas sociales como la desigualdad, la pobreza o la *migración*, contenidos de calidad sin enfoques sesgados o dañinos, sin mentira, sin manipulación.
+
+Trabajan con periodistas de los principales medios de España y Latinoamérica para difundir sus enfoques a través de los grandes medios, pero también con:
+
+- /Think tanks/ de desarrollo del mundo como [[https://www.odi.org/][Overseas Development Institute]] (centrado en desarrollo internacional y humanitario) o [[https://www.cgdev.org/][Center for Global Development]] (centrado en desarrollo internacional)
+- Universidades como la Rey Juan Carlos, la Carlos III, Autónoma de Madrid, Pontificia de Comillas, Harvard, Standford, Columbia
+- Con los principales medios y periodistas de nuestro país, como El País, Público, eldiario.es, Cadena Ser, El Intermedio, etc.
+
+Además, en su patronato cuentan con:
+- Soledad Gallego Díaz
+- Iñaki Gabilondo
+- Carlos Martínez de la Serna, fundador de PorCausa.org y actualmente en Univisión EE.UU.
+- Giannina Segnini, fundadora de la Unidad de Datos de /La Nación/ de Costa Rica y actualmente profesora en la Universidad de Columbia, Nueva York.
+- Rosental Calmon Alves, Centro Knight para el Periodismo en las Américas, profesor de periodismo en la Universidad de Texas en Austin, Cátedra Knight de Periodismo y Cátedra UNESCO de Comunicación
+- Kevin Watkins, director ejecutivo del Overseas Development Institute
+- José Juan Toharia, fundador y presidente de Metroscopia, Catedrático de Sociología en la Universidad Autónoma de Madrid, primer director de la Escuela de Periodismo UAM-El País y miembro fundador de Cuadernos para el Diálogo.
