@@ -16,14 +16,14 @@ a las *migraciones*.
 
 Estos son los diez proyectos seleccionados:
 
-1. [[https://github.com/medialab-prado/visualizar17/blob/master/Readme.org#se-cultivan-allá-se-consumen-aquí-la-travesía-de-los-alimentos-hacia-tu-despensa][Se cultivan allá, se consumen aquí]]
-2. [[https://github.com/medialab-prado/visualizar17/blob/master/Readme.org#agregala][Agrégala]]
-3. [[https://github.com/medialab-prado/visualizar17/blob/master/Readme.org#trackula][Tráckula]]
-4. [[https://github.com/medialab-prado/visualizar17/blob/master/Readme.org#lxs-menores-refugiadoxs-de-la-guerra-de-siria][Lxs menores refugiadxs]]
-5. [[https://github.com/medialab-prado/visualizar17/blob/master/Readme.org#mobilomics][Mobilomics]]
-6. [[https://github.com/medialab-prado/visualizar17/blob/master/Readme.org#cerebros-en-movimiento][Cerebros en movimiento]]
-7. [[https://github.com/medialab-prado/visualizar17/blob/master/Readme.org#población-dirigida-el-caso-de-lxs-colonxs-de-la-españa-verde-de-franco][Población dirigida]]
-8. [[https://github.com/medialab-prado/visualizar17/blob/master/Readme.org#planeta-excedencia][Planeta excecencia]]
+1. [[https://github.com/medialab-prado/visualizar17/#se-cultivan-allá-se-consumen-aquí-la-travesía-de-los-alimentos-hacia-tu-despensa][Se cultivan allá, se consumen aquí]]
+2. [[https://github.com/medialab-prado/visualizar17/#agregala][Agrégala]]
+3. [[https://github.com/medialab-prado/visualizar17/#trackula][Tráckula]]
+4. [[https://github.com/medialab-prado/visualizar17/#lxs-menores-refugiadoxs-de-la-guerra-de-siria][Lxs menores refugiadxs]]
+5. [[https://github.com/medialab-prado/visualizar17/#mobilomics][Mobilomics]]
+6. [[https://github.com/medialab-prado/visualizar17/#cerebros-en-movimiento][Cerebros en movimiento]]
+7. [[https://github.com/medialab-prado/visualizar17/#población-dirigida-el-caso-de-lxs-colonxs-de-la-españa-verde-de-franco][Población dirigida]]
+8. [[https://github.com/medialab-prado/visualizar17/#planeta-excedencia][Planeta excecencia]]
 
 * Se cultivan allá, se consumen aquí: la travesía de los alimentos hacia tu despensa
 - Promotora: Flora Fosset
