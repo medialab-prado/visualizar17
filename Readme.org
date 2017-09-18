@@ -16,7 +16,7 @@ a las *migraciones*.
 
 Estos son los diez proyectos seleccionados:
 
-1. [[Se cultivan allá, se consumen aquí][https://github.com/medialab-prado/visualizar17/blob/master/Readme.org#se-cultivan-allá-se-consumen-aquí-la-travesía-de-los-alimentos-hacia-tu-despensa]]
+1. [[https://github.com/medialab-prado/visualizar17/blob/master/Readme.org#se-cultivan-allá-se-consumen-aquí-la-travesía-de-los-alimentos-hacia-tu-despensa][Se cultivan allá, se consumen aquí]]
 2. Agrégala
 3. Tráckula
 4. Lxs menores refugiadxs
