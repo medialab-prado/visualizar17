@@ -126,8 +126,7 @@ entender la movilidad y las migraciones.
 
 
 * Cerebros en movimiento
-- Promotorxs: Clara Lima Romero, Michele Catanzaro y Elisa Vivas, de /El
-Periódico de Catalunya/.
+- Promotorxs: Clara Lima Romero, Michele Catanzaro y Elisa Vivas, de /El Periódico de Catalunya/.
 - Git: https://github.com/medialab-prado/cerebrosEnMovimiento
 
 Entre lxs científicxs está difundida la percepción que la crisis y los
